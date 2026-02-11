@@ -9,12 +9,11 @@
 
 **Key Topics**
 
-- [[財務会計の意義]]
-- [[静態論と動態論]]
-- 一般原則(真実性, 正規の簿記, 資本取引/損益取引)
-- 発生主義
-- 費用収益対応の原則
-- 保守主義
+- Purpose of accounting and role of financial statements
+- General principles (Truthfulness, Regular bookkeeping, Capital transactions/Profit and loss transactions)
+- Accrual basis and Periodical income calculation
+- Principle of matching expenses and revenues
+- Conservatism
 
 📌 Focus on **understanding over speed** here. 1 topic = 4-5 days is OK.
 
@@ -46,8 +45,8 @@
 - Deferred assets
 - Provisions
 - Asset retirement obligations
-- Retirement benefit accounting 退職給付会計
-- Lease accounting リース会計
+- Retirement benefit accounting
+- Lease accounting
 
 📌 This is the most "confusing" zone. However, **answer templates are most effective** here.
 

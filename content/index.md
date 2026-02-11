@@ -1,13 +1,11 @@
 ---
-title: 勉強ノート | oshitoriyuni
+title:
 tags:
 date: 2026-02-11
 aliases:
   - index
 ---
-oshitoriyuni
-
-### Accounting
+### 📒Accounting
 
 #### Basics
 
