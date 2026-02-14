@@ -8,24 +8,24 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "shelf",
-    pageTitleSuffix: " | yuni's shelf",
+    pageTitle: "defrag",
+    pageTitleSuffix: " | defrag",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "google",
       tagId: "G-XXXXXXXX",
     },
-    locale: "en-US",
-    baseUrl: "https://oshitoriyuni.github.io",
+    locale: "ja-JP",
+    baseUrl: "https://defrag.nilcorn.net",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Nunito",
+        body: "Zen Maru Gothic",
         code: "IBM Plex Mono",
       },
       colors: {

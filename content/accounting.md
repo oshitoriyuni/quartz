@@ -1,12 +1,10 @@
 ---
-title:
+title: 会計ノート
 tags:
 date: 2026-02-11
 aliases:
 ---
-### 📒Accounting
-
-#### Basics
+### Basics
 
 - [[財務会計の意義]]
 - [[静態論と動態論]]
@@ -14,7 +12,7 @@ aliases:
 - 会計公準
 - 企業会計原則
 
-#### General Principles
+### General Principles
 
 - 真実性の原則
 - 正規の簿記の原則
@@ -25,7 +23,7 @@ aliases:
 - 単一性の原則
 - 重要性の原則
 
-#### Profit & Loss
+### Profit & Loss
 
 - 期間利益の性質
 - 現金主義と発生主義
@@ -36,7 +34,7 @@ aliases:
 - 費用収益対応の原則
 - 収益・費用の測定
 
-#### Assets
+### Assets
 
 - 資産の意義・資産の分類
 - 貨幣製資産と費用性資産
@@ -73,7 +71,7 @@ aliases:
 - 臨時巨額の損失
 - 株式交付費
 
-#### Liabilities
+### Liabilities
 
 - 負債の意義
 - 負債の分類
@@ -86,7 +84,7 @@ aliases:
 - 引当金の分類
 - 偶発債務
 
-#### Financial Statements
+### Financial Statements
 
 - 制度会計における財務諸表
 - 損益計算書
