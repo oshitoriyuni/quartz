@@ -3,6 +3,7 @@ title: 会計ノート
 tags:
 date: 2026-02-11
 aliases:
+permalink: https://defrag.nilcorn.net/accounting
 ---
 ### Basics
 
