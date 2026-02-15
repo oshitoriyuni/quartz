@@ -9,4 +9,4 @@ title: Welcome
 
 - about_me
 
-- [[content/accounting/index]]
+- [[content/accounting/index|accounting]]
