@@ -9,4 +9,6 @@ title: Welcome
 
 - about_me
 
-- [[accounting/index|accounting]]
+- [[accounting/index|accounting]]  会計ノート
+
+- [[log]]  技術の備忘録
