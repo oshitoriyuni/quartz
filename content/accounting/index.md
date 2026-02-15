@@ -6,6 +6,8 @@ aliases:
   - index
 permalink:
 ---
+外部報告目的会計
+
 ### Basics
 
 - [[財務会計の意義]]
