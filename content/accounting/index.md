@@ -2,23 +2,20 @@
 title: 会計ノート
 tags:
 date: 2026-02-11
-aliases:
-  - index
-permalink:
 ---
 
 ## Financial Accounting 財務会計
 ### Basics
 
-- [[財務会計の意義]]
-- [[静態論と動態論]]
+- [[2-1 財務会計の意義]]
+- [[2-2 静態論と動態論]]
 - 制度会計
 - 会計公準
 - 企業会計原則
 
 ### General Principles
 
-- [[真実性の原則]]
+- [[general1|3-1 真実性の原則]]
 - 正規の簿記の原則
 - 資本・利益区別の原則
 - 明瞭性の原則
