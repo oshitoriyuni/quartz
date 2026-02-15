@@ -6,8 +6,8 @@ aliases:
   - index
 permalink:
 ---
-外部報告目的会計
 
+## Financial Accounting 財務会計
 ### Basics
 
 - [[財務会計の意義]]
@@ -18,7 +18,7 @@ permalink:
 
 ### General Principles
 
-- 真実性の原則
+- [[真実性の原則]]
 - 正規の簿記の原則
 - 資本・利益区別の原則
 - 明瞭性の原則
@@ -93,3 +93,7 @@ permalink:
 - 制度会計における財務諸表
 - 損益計算書
 - 貸借対照表
+
+
+## Bookkeeping
+
