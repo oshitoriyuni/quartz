@@ -1,6 +1,5 @@
 {
-  "$schema": "./node_modules/wrangler/config-schema.json",
   "name": "quartz",
-  "main": "././index.d.ts",
+  "main": "index.d.ts",
   "compatibility_date": "2026-02-14"
 }
