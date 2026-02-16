@@ -1,6 +1,8 @@
 ---
-title: 3-1 真実性の原則
+title: 真実性の原則
 date: 2026-02-15
+tags:
+  - financialAccounting
 ---
 🟦真実性の原則とはどのような原則であるか説明しなさい。
 
