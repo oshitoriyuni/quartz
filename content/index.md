@@ -7,5 +7,3 @@ title: Welcome
 
 
 
-- 
-- [[log]]  技術の備忘録
