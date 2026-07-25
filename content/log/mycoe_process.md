@@ -1,6 +1,7 @@
 ---
 title: MYCOEIROINKを試してみる記録
 tags:
+  - coeiroink
 date: 2026-07-22
 ---
 ## COEIROINK
